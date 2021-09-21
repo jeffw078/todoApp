@@ -2,7 +2,7 @@
 
 After building the famous Hello World its time to build a Todo app
 to learn more about React Native development, componentization, Props, 
-States, and some pretty front endgit config --global user.email "email@example.com"...
+States, and some pretty front end...
 
 I made this Todo App following a youtube tutorial below:
 
